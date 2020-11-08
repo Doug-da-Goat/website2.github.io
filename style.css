@@ -1,13 +1,4 @@
-.flex {
-    display: flex;
-    justify-content: space-between;
-}
-.flex > * {
-    font-size: 30px;
-    width: 300px;
-    text-align: center;
-}
-.d1 {background-color: red;}
-.d2 {background-color: salmon;}
-.d3 {background-color: slategrey;}
+h1 {
+    font-family: 'Raleway', sans-serif;
 
+}
