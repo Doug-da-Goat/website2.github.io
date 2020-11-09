@@ -11,6 +11,62 @@ ul{
 
 }
 
+li
+{
+    float: right;
+}
+
+li a, .dropbtn
+{
+    display: inlineblock;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn
+{
+    background: lightgray;
+    opacity: 0.1;
+}
+
+li.dropdown
+{
+    display: inline-block;
+}
+
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    background: lightgray;
+    opacity: 0.1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)
+
+}
+
+.dropdown-content a
+{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align:left;
+}
+
+.dropdown-content a:hover
+{
+    background: lightgray;
+    opacity: 0.1;
+}
+
+.dropdown:hover .dropdwon-contnet
+{
+    display:block;
+}
+
 h2 {
     font-family: 'Raleway', sans-serif;
 
