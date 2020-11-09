@@ -12,3 +12,10 @@ p {
     font-family: 'Lora', serif;
 }
 
+#UCSB-Pic { display: block;
+    width: 100px;
+    height: 300px;
+    text-align: center;
+
+    margin: auto;
+}
