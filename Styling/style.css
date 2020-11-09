@@ -18,6 +18,11 @@ p {
     margin: auto;
 }
 
+#Circuit1-Pic { display: block;
+    text-align: center;
+
+    margin: auto;
+}
 .btn {
     
 }
