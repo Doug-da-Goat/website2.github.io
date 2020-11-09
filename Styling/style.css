@@ -3,6 +3,14 @@ h1 {
 
 }
 
+ul{
+    list-style-type: none;
+    margin-right: 0px;
+    padding-right: 0px;
+    overflow: hidden;
+
+}
+
 h2 {
     font-family: 'Raleway', sans-serif;
 
