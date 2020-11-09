@@ -8,25 +8,8 @@ h2 {
 
 }
 
-h3 {
-    font-family: 'Raleway', sans-serif;
-
-}
-
-#UCSB-Pic { display: block;
-    text-align: center;
-
-    margin: auto;
-}
-
-#Yerb { display: block;
-    text-align: center;
-
-    margin: auto;
-}
-
-#PCB-Pic { display: block;
-    text-align: center;
-
-    margin: auto;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
